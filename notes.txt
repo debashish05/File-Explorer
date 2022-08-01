@@ -1,0 +1,45 @@
+AOS*********************
+
+raw mode (each and every character when input will process and show output) and canconical mode
+termios headers
+escape sequence for each key press
+
+kEEP on refereshing the screen
+wwsize return current terminal window size WILL HELP IN RESIZING TERMINAL
+
+Start with normal mode
+
+\x1b eg of escape seq
+
+Command Mode*********************8
+which system call to use have to figure out
+
+You can indent C files however you want, but Makefiles must use tabs.
+
+
+Normal mode skip navigation
+Command mode except search
+Search
+navigation
+
+
+https://viewsourcecode.org/snaptoken/kilo/index.html
+
+
+dirent.h
+termios.h
+iocti.h
+
+
+
+sed -ri '/CONFIG_SYSTEM_TRUSTED_KEYS/s/=.+/=""/g' .config
+shift to on grub and choose appropriate kernal
+
+
+
+Read Line by Line in canconical mode and process when hit enter
+raw mode read charcter by character without entering
+
+
+Delete hidden files
+Use non vlc for audio
